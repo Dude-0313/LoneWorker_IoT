@@ -4,14 +4,14 @@
 
 The **Lone Worker IoT Solution** is intended to provide a solution that allows assists employers & workers and augments existing mechanisms to ensure worker safety as per the above described regulations. 
 
-***Architecture :***
+***Architecture :***  
 <img src="LoneWorker_Architecture.png" width="300">   
 
 The solution allows for handling of following overall requirements:
 1. *Workplace monitoring*: The system provides support for monitoring environmental
 parameters in a potentially hazardous workplace such as presence of
 harmful/flammable gasses, smoke and high temperatures.
-Dissertation: 2015HW12025
+
 12
 2. *Early warning*: The system provides an early warning mechanism to the employee
 when approaching the potentially hazardous environment such as area with gas
